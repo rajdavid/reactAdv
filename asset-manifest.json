@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactAdv/static/css/main.eab24d3c.chunk.css",
+    "main.js": "/reactAdv/static/js/main.c66414b0.chunk.js",
+    "main.js.map": "/reactAdv/static/js/main.c66414b0.chunk.js.map",
+    "runtime-main.js": "/reactAdv/static/js/runtime-main.bcd4fa94.js",
+    "runtime-main.js.map": "/reactAdv/static/js/runtime-main.bcd4fa94.js.map",
+    "static/js/2.70249e97.chunk.js": "/reactAdv/static/js/2.70249e97.chunk.js",
+    "static/js/2.70249e97.chunk.js.map": "/reactAdv/static/js/2.70249e97.chunk.js.map",
+    "index.html": "/reactAdv/index.html",
+    "precache-manifest.430561dc4dc72894298c1f5590cedb76.js": "/reactAdv/precache-manifest.430561dc4dc72894298c1f5590cedb76.js",
+    "service-worker.js": "/reactAdv/service-worker.js",
+    "static/css/main.eab24d3c.chunk.css.map": "/reactAdv/static/css/main.eab24d3c.chunk.css.map",
+    "static/js/2.70249e97.chunk.js.LICENSE.txt": "/reactAdv/static/js/2.70249e97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcd4fa94.js",
+    "static/js/2.70249e97.chunk.js",
+    "static/css/main.eab24d3c.chunk.css",
+    "static/js/main.c66414b0.chunk.js"
+  ]
+}
