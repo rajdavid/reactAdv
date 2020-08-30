@@ -1,8 +1,10 @@
 import React from 'react';
 import './App.css';
-import Hero from './components/Hero';
-import ErrorBoundry from './components/ErrorBoundry';
-// import PortalDemo from './components/PortalDemo';
+import ClickCounter from './components/ClickCounter';
+import HoverCounter from './components/HoverCounter';
+// import Hero from './components/Hero';
+// import ErrorBoundry from './components/ErrorBoundry';
+// // import PortalDemo from './components/PortalDemo';
 
 function App() {
   return (
@@ -11,7 +13,7 @@ function App() {
 
       {/* <PortalDemo/> */}
 
-      <ErrorBoundry>
+      {/* <ErrorBoundry>
           <Hero heroname='batman' />
       </ErrorBoundry>
       
@@ -21,8 +23,9 @@ function App() {
       
       <ErrorBoundry>
         <Hero heroname='joker'/>
-      </ErrorBoundry>
-
+      </ErrorBoundry> */}
+      <ClickCounter name="david"/>
+      <HoverCounter/>
     </div>
   );
 }
